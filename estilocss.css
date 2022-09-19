@@ -1,0 +1,28 @@
+* {
+margin: 0; 
+padding: 0;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(3, 121, 3);
+    padding: 10px;
+}
+
+body {
+    border: solid rgb(3, 121, 3) 3px;
+}
+div {
+    margin: 15px;
+    font-size: 17pt;
+    text-align: justify;
+}
+.img {
+    margin: 10px;
+}
+footer{
+    text-align: center;
+   background-color:rgb(3, 121, 3);
+   color: white;
+   padding: 15px;
+   font-size: 13pt;
+}
